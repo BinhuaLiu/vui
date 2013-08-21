@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:vuidesigner="http://www.voxana.com/vuidesigner">
+  <vuidesigner:Document xmi:id="_nP3hsNh6EeKOXL-5zVbvAw">
+    <startPoint xmi:type="vuidesigner:StartPoint" xmi:id="_bWSFgAoHEeOBBpg3ZL7zbQ" name="0100_CallStart"/>
+  </vuidesigner:Document>
+  <notation:Diagram xmi:id="_nP9BQNh6EeKOXL-5zVbvAw" type="Vuidesigner" element="_nP3hsNh6EeKOXL-5zVbvAw" name="page1.vpage" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_bWT6sAoHEeOBBpg3ZL7zbQ" type="2010" element="_bWSFgAoHEeOBBpg3ZL7zbQ" fontName="Segoe UI">
+      <children xmi:type="notation:DecorationNode" xmi:id="_bWUhwAoHEeOBBpg3ZL7zbQ" type="5010"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bWT6sQoHEeOBBpg3ZL7zbQ" x="315" y="67"/>
+    </children>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_nP9BQdh6EeKOXL-5zVbvAw"/>
+  </notation:Diagram>
+</xmi:XMI>
